@@ -146,14 +146,13 @@ OS:       CachyOS x86_64
 Kernel:   Linux 7.0.5-2-cachyos
 Shell:    zsh 5.9
 WM:       niri 26.04 (Wayland)
-Theme:    Catppuccin-Dark
-Icons:    Papirus
-Cursor:   Bibata-Modern-Classic
-Terminal: kitty
-Font:     FiraCode Nerd Font
-CPU:      AMD Ryzen 7 5700X
-GPU:      NVIDIA RTX 3070 LHR
-Monitor:  3440x1440 Ultrawide 34"
+Theme:    adw-gtk3
+Cursor:   capitaine
+Terminal: kitty 0.46.2
+Font:     NotoSansMono-Regular (11pt)
+CPU:      AMD Ryzen 7 5700X (16) @ 4.67 GHz
+GPU:      NVIDIA GeForce RTX 3070 LHR
+Monitor:  1920x1080 23" 144Hz + 3440x1440 34" 180Hz
 ```
 
 ---
