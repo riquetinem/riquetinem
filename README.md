@@ -64,8 +64,8 @@ Backend, Frontend, APIs, Microsserviços, Linux & Arquitetura SaaS.
 
 ### 🖥️ Terminal
 
-**Warp** — terminal moderno com IA integrada.
-🔗 https://www.warp.dev/
+**kitty 0.46.2** — terminal rápido, GPU-accelerated e altamente configurável.
+🔗 https://sw.kovidgoyal.net/kitty/
 
 ---
 
