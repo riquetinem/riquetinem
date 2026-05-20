@@ -13,16 +13,21 @@ Backend, Frontend, APIs, Microsserviços, Linux & Arquitetura SaaS.
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Infraestrutura & Cloud
@@ -139,20 +144,20 @@ Minha trilha sonora enquanto programo:
 
 ---
 
-## 🐧 Setup Linux
+## 🐧 Ambiente Linux
 
 ```bash
 OS:       CachyOS x86_64
-Kernel:   Linux 7.0.5-2-cachyos
+Kernel:   Linux 7.0.9-1-cachyos
 Shell:    zsh 5.9
-WM:       niri 26.04 (Wayland)
-Theme:    adw-gtk3
-Cursor:   capitaine
+WM:       Hyprland 0.55.0 (Wayland)
+Icons:    Papirus-Dark
+Cursor:   Bibata-Modern-Ice
 Terminal: kitty 0.46.2
-Font:     NotoSansMono-Regular (11pt)
-CPU:      AMD Ryzen 7 5700X (16) @ 4.67 GHz
-GPU:      NVIDIA GeForce RTX 3070 LHR
-Monitor:  1920x1080 23" 144Hz + 3440x1440 34" 180Hz
+Font:     JetBrainsMono Nerd Font
+CPU:      AMD Ryzen 7 5700X
+GPU:      NVIDIA GeForce RTX 3070
+Monitor:  3440x1440 @ 180Hz + 1920x1080 @ 144Hz
 ```
 
 ---
